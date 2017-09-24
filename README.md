@@ -11,4 +11,4 @@ Trata-se de um modelo PSD para arte de um dos meus projetos musicais.
 
 <hr>
 <p>Este é um modelo de manipulação de imagem criado no Phoroshop CS5</p>
-<img src="https://preview.ibb.co/dnCpEQ/cover_liderc.jpg" width="300" height="300">
+<img src="https://preview.ibb.co/dnCpEQ/cover_liderc.jpg" width="300" height="200">
